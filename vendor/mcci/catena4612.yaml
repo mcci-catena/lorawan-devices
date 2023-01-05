@@ -11,7 +11,7 @@ description: General purpose LPWAN building block, open source, user-programmabl
 # Firmware versions (at least one mandatory)
 firmwareVersions:
   - # Firmware version
-    version: '0.2.0'
+    version: '0.4.0'
     numeric: 1
     #   corresponding hardware versions (optional)
     #   hardwareVersions:
